@@ -1,0 +1,10 @@
+C:\Users\enesf\source\repos\BomOyunu\BomOyunu\bin\Debug\BomOyunu.exe.config
+C:\Users\enesf\source\repos\BomOyunu\BomOyunu\bin\Debug\BomOyunu.exe
+C:\Users\enesf\source\repos\BomOyunu\BomOyunu\bin\Debug\BomOyunu.pdb
+C:\Users\enesf\source\repos\BomOyunu\BomOyunu\obj\Debug\BomOyunu.csprojAssemblyReference.cache
+C:\Users\enesf\source\repos\BomOyunu\BomOyunu\obj\Debug\BomOyunu.Form1.resources
+C:\Users\enesf\source\repos\BomOyunu\BomOyunu\obj\Debug\BomOyunu.Properties.Resources.resources
+C:\Users\enesf\source\repos\BomOyunu\BomOyunu\obj\Debug\BomOyunu.csproj.GenerateResource.cache
+C:\Users\enesf\source\repos\BomOyunu\BomOyunu\obj\Debug\BomOyunu.csproj.CoreCompileInputs.cache
+C:\Users\enesf\source\repos\BomOyunu\BomOyunu\obj\Debug\BomOyunu.exe
+C:\Users\enesf\source\repos\BomOyunu\BomOyunu\obj\Debug\BomOyunu.pdb
